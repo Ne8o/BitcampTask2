@@ -1,5 +1,4 @@
+#write indoor
+indoor = input("write something: ").lower()
 
-text = (input("Tell me something and I will repeat it: ")).lower()
-
-
-print(text)
+print(indoor)
